@@ -1,0 +1,15 @@
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  text-decoration: none;
+}
+
+.img{
+  height: 4rem;
+}
+.logo >h1{
+  font-size: 2rem;
+  color:white;
+}

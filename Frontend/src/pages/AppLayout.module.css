@@ -1,0 +1,7 @@
+.app {
+    height: 100vh;
+    background-color: var(--color-dark--0);
+    display: flex;
+    position: relative;
+  }
+  

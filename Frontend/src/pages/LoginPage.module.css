@@ -1,0 +1,28 @@
+.login {
+  /* background-color: var(--color-dark--1); */
+  background: linear-gradient(rgba(36, 42, 46, 0.382), rgb(36, 42, 46)),url("https://us.images.westend61.de/0001099063pw/south-africa-cape-town-kloof-nek-two-women-sitting-on-rock-at-sunset-LHPF00294.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.form {
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.293);
+  -webkit-backdrop-filter: blur(5px); 
+  background-color: rgba(49, 49, 49, 0.526);
+  border: 7px;
+  padding: 5rem 4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+  width: 58rem;
+  margin: 10rem auto;
+}
+
+.row {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
